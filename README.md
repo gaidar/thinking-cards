@@ -6,6 +6,8 @@ This is a collection of 33 reference cards, one per method. Each card gives you 
 
 Pick the method that fits the problem.
 
+![Thinking Cards](thinking-cards.png)
+
 ## How to Use
 
 Each card follows the same structure:
